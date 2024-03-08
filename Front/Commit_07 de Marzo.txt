@@ -1,0 +1,17 @@
+Cmbios del 7 de marzo:
+
+Se agregó la opción de creacion del laberinto (o matriz) con la opción de decidir la longitud del laberinto
+
+Probelmas:
+
+Debido a errores al momento de importar el archivo del backend, se necesitó agregar las funciones del backend en el archivo front para poder realizar lo que se debía
+
+Proximos objetivos:
+
+Eliminar el codigo del backend y hacer uso apropiado de la importacion, asi como darle mayor estetica a la ventana y una mejor impresiíon del laberinto
+
+
+
+github:
+
+https://github.com/KALLIIOZ/Laberinto.git
