@@ -1,9 +1,9 @@
 ```markdown
 ## Detalles del Proyecto
 
-- **Título:** Desarrollo de [Nombre del Proyecto]
-- **Fecha de Finalización:** [Fecha de finalización]
-- **Equipo de Proyecto:** [Lista de miembros del equipo]
+- **Título:** Desarrollo de laberinto con divide y venceras
+- **Fecha de Finalización:** 10/03/2024
+- **Equipo de Proyecto:** Alan Castillejos (Frontend), Rigo (backend), Luis Rosas (Administrador)
 
 ### Logros
 
